@@ -1,4 +1,4 @@
-//made by: Chris and James
+//made by: Chris Nataros
 
 #include <Servo.h>
 
